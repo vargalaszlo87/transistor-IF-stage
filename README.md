@@ -1,2 +1,4 @@
-# transistor-IF-stage
-This is an IF stage for transistor radio.
+# 🚀 transistor-IF-stage
+
+These are two versions of IF-stage for a transistor radio (in my **FLEX-radio project :) **).
+
