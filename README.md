@@ -11,7 +11,7 @@ Why did i say "that is a traditional circuit"? Easy, many radio receiver contain
 - The input side of this circuit is the output of the transformer of previous stage (therefore we not need use a coupling capacitor).
 - The output side is a galvanically isolated output for next stage.
 
-If we take a closer look, this is a common-emitter circuit with a [swamping resistor](https://eng.libretexts.org/Bookshelves/Electrical_Engineering/Electronics/Semiconductor_Devices_-_Theory_and_Application_(Fiore)/07%3A_BJT_Small_Signal_Amplifiers/7.3%3A_Common_Emitter_Amplifier) for emitter and an active work resistance (LC).
+If we take a closer look, this is a common-emitter amplifier circuit with a [swamping resistor](https://eng.libretexts.org/Bookshelves/Electrical_Engineering/Electronics/Semiconductor_Devices_-_Theory_and_Application_(Fiore)/07%3A_BJT_Small_Signal_Amplifiers/7.3%3A_Common_Emitter_Amplifier) for emitter and an active work resistance (LC).
 
 The gain of this amlpifier can be adjusted between ~4 and ~13dB using an 2.2k potentiometer.
 
