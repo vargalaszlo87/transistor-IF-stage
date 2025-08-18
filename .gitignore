@@ -1,3 +1,13 @@
 transistor-IF-stage.log
 transistor-IF-stage.op.raw
 transistor-IF-stage.raw
+transistor-IF-stage.fft
+transistor-IF-stage.net
+transistor-IF-stage.raw
+
+transistor-IF-stage-capacitive-coupling.log
+transistor-IF-stage-capacitive-coupling.op.raw
+transistor-IF-stage-capacitive-coupling.raw
+transistor-IF-stage-capacitive-coupling.fft
+transistor-IF-stage-capacitive-coupling.net
+transistor-IF-stage-capacitive-coupling.raw
