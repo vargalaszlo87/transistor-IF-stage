@@ -17,3 +17,8 @@ The gain of this amlpifier can be adjusted between ~4 and ~13dB using an 2.2k po
 
 <img width="818" height="768" alt="image" src="https://github.com/user-attachments/assets/6dae7ce2-436a-4560-aa33-7ac8c9d8228a" />
 
+## Second version
+
+In this case the signal goes throught the 
+
+<img width="1219" height="889" alt="image" src="https://github.com/user-attachments/assets/22e32c0f-736a-4567-95d9-85379dfc822a" />
