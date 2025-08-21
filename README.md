@@ -13,7 +13,7 @@ Why did i say "that is a traditional circuit"? Easy, many radio receiver contain
 
 If we take a closer look, this is a common-emitter amplifier circuit with a [swamping resistor](https://eng.libretexts.org/Bookshelves/Electrical_Engineering/Electronics/Semiconductor_Devices_-_Theory_and_Application_(Fiore)/07%3A_BJT_Small_Signal_Amplifiers/7.3%3A_Common_Emitter_Amplifier) for emitter and an active work resistance (LC).
 
-The gain of this amlpifier can be adjusted between ~4 and ~13dB using an 2.2k potentiometer (The R4 provides the lower range of amplifier and the R3 is the swamping resistor). 
+The gain of this amlpifier can be adjusted between ~4 and ~13dB using an 2.2k potentiometer (The R4 provides the lower range of the amplifier and the R3 is the swamping resistor). The bypass capacitor in the emitter network helps stabilize DC Q-point and increase the AC-gain.  The network of R1 and R2 is the voltage divider for biasing. C3 capacitor provides negative feedback to the circuit. 
 
 <img width="818" height="768" alt="image" src="https://github.com/user-attachments/assets/6dae7ce2-436a-4560-aa33-7ac8c9d8228a" />
 
