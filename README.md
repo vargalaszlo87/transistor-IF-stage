@@ -19,6 +19,8 @@ The gain of this amlpifier can be adjusted between ~4 and ~13dB using an 2.2k po
 
 ## Second version
 
-In this case the signal goes throught the 
+In this case, the signal reaches the base of the transistor through the coupling capacitor C4. This is a general type of an amplifiers input. Warning! Each capacitor (coupler, decoupler, bypass, feedback etc.) can be modified the frequency response of amplifier, therefore our goal is to use fewer capacitor if possible. 
+
+The other parts are same as the previous version.
 
 <img width="1219" height="889" alt="image" src="https://github.com/user-attachments/assets/22e32c0f-736a-4567-95d9-85379dfc822a" />
