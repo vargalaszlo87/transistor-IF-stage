@@ -27,7 +27,7 @@ The other parts are same as the previous version.
 
 # 🖖 Let's see it in practice!
 
-**Important!** Usually several IF stage must be used in succession. Why? High gain and good selectivity are not a simple mission in RF world. If you've ever seen a pocket radio from the inside, you know the PCB containst more IF transformer. Amplification and filtering of all stages are smaller and less efficient, but together is well! (two amplifiers in series are **gain 1** x **gain**)
+**Important!** Usually several IF stage must be used in succession. Why? High gain and good selectivity are not a simple mission in RF world. If you've ever seen a pocket radio from the inside, you know the PCB containst more IF transformer. Amplification and filtering of all stages are smaller and less efficient, but together is well! (two amplifiers in series are **gain 1** x **gain 2** etc.)
 
 Some of the components in the breadboard example are different than in my LTSpice files. 
 
