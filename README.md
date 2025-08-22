@@ -24,3 +24,13 @@ In this case, the signal reaches the base of the transistor through the coupling
 The other parts are same as the previous version.
 
 <img width="1219" height="889" alt="image" src="https://github.com/user-attachments/assets/22e32c0f-736a-4567-95d9-85379dfc822a" />
+
+# 🖖 Let's see it in practice!
+
+**Important!** Usually several IF stage must be used in succession. Why? High gain and good selectivity are not a simple mission in RF world. If you've ever seen a pocket radio from the inside, you know the PCB containst more IF transformer. Amplification and filtering of all stages are smaller and less efficient, but together is well! (two amplifiers in series are **gain 1** x **gain**)
+
+Some of the components in the breadboard example are different than in my LTSpice files. 
+
+So what are the differents?
+
+- The yellow 
