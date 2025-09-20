@@ -4,6 +4,10 @@ These are two versions of IF-stage for a transistor radio (in my **FLEX-radio pr
 
 So, the IF (intermediate frequency) transformer provides the selectivity of this stage in this case. This is a proven solution in radio world, therefore we examine it. I make two versions of this method (only the input side is different), let's see!
 
+https://www.youtube.com/watch?v=3q_lmmGPHTQ
+
+[![Watch the video](https://img.youtube.com/vi/3q_lmmGPHTQ/0.jpg)](https://www.youtube.com/watch?v=3q_lmmGPHTQ)
+
 ## First "traditional" circuit
 
 Why did i say "that is a traditional circuit"? Easy, many radio receiver contains very similar circuit.
