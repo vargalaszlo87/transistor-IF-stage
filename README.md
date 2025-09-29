@@ -6,7 +6,9 @@ So, the IF (intermediate frequency) transformer provides the selectivity of this
 
 https://www.youtube.com/watch?v=3q_lmmGPHTQ
 
-[![Watch the video](https://img.youtube.com/vi/3q_lmmGPHTQ/0.jpg)](https://www.youtube.com/watch?v=3q_lmmGPHTQ)
+https://youtu.be/V8UAOLuS4JI
+
+[![Watch the video](https://img.youtube.com/vi/V8UAOLuS4JI/0.jpg)](https://www.youtube.com/watch?v=V8UAOLuS4JI)
 
 ## First "traditional" circuit
 
