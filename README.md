@@ -38,7 +38,7 @@ Some of the components in the breadboard example are different than in my LTSpic
 So what are the differents?
 
 - The parameters of the yellow TOKO coil: tow primaries are 257u and 101u and the secondary is 1u
-- The pair in voltage divider are 47k and 4,7k
+- The pair in voltage divider are 47k and 4,7k or a little bit larger
 - In emitter network: 1k potentiometer, 9.1ohm swamping resistor and 180ohm Emitter resistor.
 
 ![transistor-IF-stage-capacitor-coupling-breadboard-01](https://github.com/user-attachments/assets/38157f20-46ee-4593-923a-6987cd377d34)
