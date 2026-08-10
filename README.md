@@ -21,6 +21,8 @@ The gain of this amlpifier can be adjusted between ~4 and ~13dB using an 2.2k po
 
 <img width="818" height="768" alt="image" src="https://github.com/user-attachments/assets/6dae7ce2-436a-4560-aa33-7ac8c9d8228a" />
 
+*22n is wrong, the right value is 22u 
+
 ## Second version
 
 In this case, the signal reaches the base of the transistor through the coupling capacitor C4. This is a general type of an amplifiers input. Warning! Each capacitor (coupler, decoupler, bypass, feedback etc.) can be modified the frequency response of amplifier, therefore our goal is to use fewer capacitor if possible. 
